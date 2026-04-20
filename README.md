@@ -25,6 +25,7 @@ This project classifies iris flowers into three species:
 
 ### 📉 Visualization
 - Decision boundary plot using petal features
+![Iris Plot](iris_plot.png)
 
 ### 🛠️ Tech Stack
 - Python
@@ -45,7 +46,10 @@ Predicts car selling prices using machine learning techniques.
 
 ### 📊 Results
 - Random Forest: R² ≈ 0.95  
-- Linear Regression: R² ≈ 0.84  
+- Linear Regression: R² ≈ 0.84
+  
+### 📉 Visualization
+![Car Price Plot](car_price_plot.png)
 
 ### 🔧 Key Work
 - Feature Engineering (Car Age)
