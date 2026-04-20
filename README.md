@@ -1,43 +1,61 @@
-# 1.Iris Classification using Logistic Regression
+# CodeAlpha Data Science Internship Tasks
 
-## 📌 Overview
+---
+
+## 1. Iris Classification using Logistic Regression
+
+### 📌 Overview
 This project classifies iris flowers into three species:
 - Setosa
 - Versicolor
 - Virginica
 
-## ⚙️ Model
-- Logistic Regression,Scikit-learn
-  
-## 📊 Results
+### ⚙️ Model
+- Logistic Regression (Scikit-learn)
+
+### 📊 Results
 - Accuracy: 100%
-- Cross-validation score: ~99%
+- Cross-validation Score: ~99%
 
-## 📈 Features Used
-- Sepal Length,Sepal Width,Petal Length,Petal Width
+### 📈 Features Used
+- Sepal Length
+- Sepal Width
+- Petal Length
+- Petal Width
 
-## 📉 Visualization
-Includes decision boundary plot using petal features.
+### 📉 Visualization
+- Decision boundary plot using petal features
 
-## 🛠️ Tech Stack
-- Python,Matplotlib, Pandas,Scikit-learn
-  
-# 2.Car Price Prediction
+### 🛠️ Tech Stack
+- Python
+- Pandas
+- Matplotlib
+- Scikit-learn
 
-## 📌 Overview
-Predicts car selling prices using machine learning.
+---
 
-## ⚙️ Models
-- Linear Regression ,Random Forest
-  
-## 📊 Results
+## 2. Car Price Prediction
+
+### 📌 Overview
+Predicts car selling prices using machine learning techniques.
+
+### ⚙️ Models Used
+- Linear Regression
+- Random Forest
+
+### 📊 Results
 - Random Forest: R² ≈ 0.95  
 - Linear Regression: R² ≈ 0.84  
 
-## 🔧 Key Work
-- Feature Engineering (car age)
-- Data preprocessing & encoding
-- Model comparison
+### 🔧 Key Work
+- Feature Engineering (Car Age)
+- Data Preprocessing & Encoding
+- Model Comparison
 
-## 🛠️ Tech
-Python, Pandas, Scikit-learn, Matplotlib
+### 🛠️ Tech Stack
+- Python
+- Pandas
+- Scikit-learn
+- Matplotlib
+
+---
